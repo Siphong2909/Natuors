@@ -1,6 +1,6 @@
 # Natours
 
-https://hiepnguyen13.github.io/natours/  
+https://phongnguyen-natuors.netlify.app/  
 The fictional website of a tour operators & travel company  
 Instructor: Jonas Schmedtmann
 
